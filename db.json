@@ -6,7 +6,7 @@
       "type": "Механический",
       "description": "Используется для промывания породы и отделения золота от песка.",
       "price": 5000,
-      "image": "https://example.com/shlyuz.jpg"
+      "image": "https://sun9-3.userapi.com/impg/3t7gWD9nsE45YLPqgsa6IcxAh_nIVWukD1T6Yg/uVqmIvu7xsU.jpg?size=144x144&quality=95&sign=cdda043af4e7fbe0d192e08e71b1ae6b&type=album"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "Ручной",
       "description": "Классический инструмент старателя, позволяющий вручную отделять золото.",
       "price": 50,
-      "image": "https://example.com/lotok.jpg"
+      "image": "https://sun9-3.userapi.com/impg/3t7gWD9nsE45YLPqgsa6IcxAh_nIVWukD1T6Yg/uVqmIvu7xsU.jpg?size=144x144&quality=95&sign=cdda043af4e7fbe0d192e08e71b1ae6b&type=album"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "Тяжелая техника",
       "description": "Используется для добычи золота на карьерах и реках.",
       "price": 1000000,
-      "image": "https://example.com/dragline.jpg"
+      "image": "https://sun9-3.userapi.com/impg/3t7gWD9nsE45YLPqgsa6IcxAh_nIVWukD1T6Yg/uVqmIvu7xsU.jpg?size=144x144&quality=95&sign=cdda043af4e7fbe0d192e08e71b1ae6b&type=album"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "type": "Аксессуар",
       "description": "Позволяет задерживать мельчайшие частицы золота при промывке.",
       "price": 100,
-      "image": "https://example.com/kovrik.jpg"
+      "image": "https://sun9-3.userapi.com/impg/3t7gWD9nsE45YLPqgsa6IcxAh_nIVWukD1T6Yg/uVqmIvu7xsU.jpg?size=144x144&quality=95&sign=cdda043af4e7fbe0d192e08e71b1ae6b&type=album"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "type": "Оборудование",
       "description": "Автоматически отделяет тяжелые металлы, включая золото, от пустой породы.",
       "price": 20000,
-      "image": "https://example.com/separator.jpg"
+      "image": "https://sun9-3.userapi.com/impg/3t7gWD9nsE45YLPqgsa6IcxAh_nIVWukD1T6Yg/uVqmIvu7xsU.jpg?size=144x144&quality=95&sign=cdda043af4e7fbe0d192e08e71b1ae6b&type=album"
     }
   ]
 }
